@@ -1,0 +1,4 @@
+Username input box: CSS Selector by ID "user-name"
+Password input box: CSS Selector by ID "password"
+Login button: CSS Selector by ID "login-button"
+Error message: X-Path Selector using //h3[@data-test='error']
